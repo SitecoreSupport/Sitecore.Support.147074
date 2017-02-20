@@ -1,5 +1,5 @@
 ﻿
-namespace Sitecore.Support
+namespace Sitecore.Support.ContentSearch.LuceneProvider
 {
     using System.Linq;
     using Sitecore.ContentSearch;
